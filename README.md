@@ -1,4 +1,4 @@
-![Agile   Scrum](https://github.com/peacetheboy/CMPG-323-Overview-36564567-/assets/90477030/45ffd434-bf92-495b-82de-4f0aab392446)
+![90477030](https://github.com/peacetheboy/CMPG-323-Overview-36564567-/assets/90477030/6ccd76bb-4474-4c38-9134-b04f2f781b50)
 # CMPG-323-Overview 36564567
 I'm now a CMPG 323 student! 🤩
 
