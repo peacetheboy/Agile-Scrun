@@ -40,7 +40,8 @@ We follow a feature branching strategy to manage code changes effectively. This 
    git pull origin main
    git checkout -b feature/new-feature
 1. # Regularly commit your changes to the feature branch:
-   ![carbon](https://github.com/peacetheboy/CMPG-323-Overview-36564567-/assets/90477030/c9c57211-8a3b-4d0a-86b1-30c83a05bc32)
+   ![carbon (1)](https://github.com/peacetheboy/CMPG-323-Overview-36564567-/assets/90477030/ce6319f2-0bf2-4064-903c-30ef2a1ea3bf)
+2. # Push your changes to the remote repository:
 
 
 # Project Management with.gitignore (for all projects) 😇
