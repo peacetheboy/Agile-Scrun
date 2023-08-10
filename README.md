@@ -21,6 +21,26 @@ Within a single, central code base, teams of developers can effortlessly interac
 
 ## Branching strategies to be used
 
+We follow a feature branching strategy to manage code changes effectively. This strategy allows for parallel development while maintaining code quality and minimizing conflicts.
+
+### Branch Types
+
+1. **Main Branch:** The `main` (or `master`) branch holds the stable and deployable code. It should always reflect the production-ready state.
+
+2. **Feature Branches:** For each new feature, bug fix, or enhancement, create a new branch based on `main`. Use descriptive names that reflect the feature or issue being addressed (e.g., `feature/user-authentication`, `bugfix/data-validation`).
+
+3. **Pull Requests:** When your feature is ready for review, open a pull request from your feature branch to `main`. This allows for code review, discussion, and testing before merging.
+
+### Workflow
+
+1. Create a new branch for your feature or bug fix:
+
+   ```bash
+   git checkout main
+   git pull origin main
+   git checkout -b feature/new-feature
+1. Regularly commit your changes to the feature branch:
+
 # Project Management with.gitignore (for all projects) 😇
 
 In this project, we use a '.gitignore' file to determine which files and folders Git will ignore, assuring that just the necessary code and resources are maintained. This strategy contributes to the cleanliness of our repository, removes unneeded clutter, and improves collaboration.
