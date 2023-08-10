@@ -31,7 +31,7 @@ We follow a feature branching strategy to manage code changes effectively. This 
 
 3. **Pull Requests:** When your feature is ready for review, open a pull request from your feature branch to `main`. This allows for code review, discussion, and testing before merging.
 
-### Workflow
+## Workflow
 
 1. Create a new branch for your feature or bug fix:
 
@@ -39,10 +39,11 @@ We follow a feature branching strategy to manage code changes effectively. This 
    git checkout main
    git pull origin main
    git checkout -b feature/new-feature
-1. # Regularly commit your changes to the feature branch:
-   ![carbon (1)](https://github.com/peacetheboy/CMPG-323-Overview-36564567-/assets/90477030/ce6319f2-0bf2-4064-903c-30ef2a1ea3bf)
-2. # Push your changes to the remote repository:
+1. ### Regularly commit your changes to the feature branch:
+![carbon (1)](https://github.com/peacetheboy/CMPG-323-Overview-36564567-/assets/90477030/ce6319f2-0bf2-4064-903c-30ef2a1ea3bf)
 
+2. ### Push your changes to the remote repository:
+![carbon (2)](https://github.com/peacetheboy/CMPG-323-Overview-36564567-/assets/90477030/8f3a36a4-a60d-48d7-9e8f-2b51ad03e43e)
 
 # Project Management with.gitignore (for all projects) 😇
 
