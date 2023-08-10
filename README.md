@@ -4,7 +4,7 @@ I'm now a CMPG 323 student! 🤩
 
 project 1 will be created on this repository named CMPG-323-Overview - <36564567> ✅
 
-# Project Repositories to be created 🫡
+# Project Repositories to be created for each project 🫡
 - CMPG-323-Overview Project 1 - <36564567> 
 - CMPG 323 Project 2 - <36564567>
 - CMPG 323 Project 3 - <36564567>
@@ -13,6 +13,13 @@ project 1 will be created on this repository named CMPG-323-Overview - <36564567
 
 # Diagram explaining project and repository context and how they are integrated
 ![image](https://github.com/peacetheboy/CMPG-323-Overview-36564567-/assets/90477030/08791091-dac5-45ac-a068-2175e0a84fad)
+
+# Branncing Strategy
+
+## Why brancing is important
+Within a single, central code base, teams of developers can effortlessly interact via branching. The version control system makes a copy of the code base at that precise moment when a developer starts a branch. Other team members' developers are unaffected by changes to the branch. 
+
+## Branching strategies to be used
 
 # Project Management with.gitignore (for all projects) 😇
 
